@@ -49,7 +49,7 @@ receiver: address = aleo14f6r8ee728arw8u2mgqfv37xk7lputxk5yman56krp2gn84a8urqfwn
 amount: u64 = 3u64;
 ```
 
-Using this command
+Using this command to send 3 tokens to receiver address
 ```
 leo run transfer_private
 ```
