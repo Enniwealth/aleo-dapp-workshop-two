@@ -9,7 +9,8 @@ first i ran
 ```
 leo example token 
 ```
-Creates a token project, we can then mint tokens to send to receiver
+Creates a token project, we can then mint tokens to send to receiver.
+
 Then cd into ``` token ```
 
 Then i ran 
